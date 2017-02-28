@@ -7,6 +7,5 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 5.times do |i|
   Lesson.create(name: "Lesson #{i}", description: "lekce")
-  
 end
 
