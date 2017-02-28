@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: "Lekce v pondělí v 9:30"
+  description: "Každé pondělí"
+  from: 2017-02-20 09:30
+  until: 2017-02-20 10:30
+  capacity: 12
+
+two:
+  name: "Lekce v pondělí v 11:00"
+  description: MyText
+  from: 2017-02-20 11:00:00
+  until: 2017-02-20 12:00:00
+  capacity: 12
